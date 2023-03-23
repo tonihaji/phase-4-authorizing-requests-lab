@@ -1,0 +1,15 @@
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/moringa/.rvm/rubies/ruby-2.7.4/bin/ruby -I /home/moringa/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20230323-8439-mos1ok.rb extconf.rb
+creating Makefile
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20230323-8439-gbb7t1
